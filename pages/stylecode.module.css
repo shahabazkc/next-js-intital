@@ -1,0 +1,16 @@
+.content{
+    background-color: red;
+    height: 400px;
+    width:500px;
+    color:tomato;
+  }
+  .content:hover{
+    background: green;
+    color: black;
+  }
+  .contentmodify{
+    background: blue;
+  }
+  .h1{
+    font-size: 62px;
+  }
